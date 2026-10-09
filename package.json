@@ -1,0 +1,26 @@
+{
+  "name": "goit-js-hw-17-4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/RoMaNNN02/goit-js-hw-17-4#readme",
+  "bugs": {
+    "url": "https://github.com/RoMaNNN02/goit-js-hw-17-4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoMaNNN02/goit-js-hw-17-4.git"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.10",
+    "parcel": "^2.16.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.16.4"
+  }
+}
