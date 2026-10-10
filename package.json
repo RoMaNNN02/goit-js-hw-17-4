@@ -17,10 +17,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "handlebars": "^4.7.10",
-    "parcel": "^2.16.4"
+    "handlebars": "^4.7.10"
   },
   "devDependencies": {
-    "@parcel/transformer-inline-string": "^2.16.4"
+    "@parcel/transformer-inline-string": "^2.16.4",
+    "parcel": "^2.16.4"
   }
 }
